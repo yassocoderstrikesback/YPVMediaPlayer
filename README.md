@@ -20,7 +20,7 @@
 
 ## 🛠 Current Challenges (Help Wanted\! 🆘)
 
-YPV is currently in active development. While it performs perfectly on high-end hardware (like my Xiaomi daily driver), it struggles with specific formats on mid-range devices (like the Lenovo K12 Note).
+YPV is currently in active development. While it performs perfectly on modern devices, it struggles with specific formats on mid-range devices.
 
 **We are looking for contributors to help with:**
 

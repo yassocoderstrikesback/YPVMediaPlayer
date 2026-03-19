@@ -46,7 +46,7 @@ YPV is currently in active development. While it performs perfectly on modern de
     ```bash
     git clone https://github.com/yassocoderstrikesback/YPVMediaPlayer.git
     ```
-2.  **Open in Android Studio:** Use the latest version (Ladybug or newer).
+2.  **Open in Android Studio:** Use the latest version (Panda).
 3.  **Build & Run:** Deploy to a physical device to test real-world performance.
 
 -----

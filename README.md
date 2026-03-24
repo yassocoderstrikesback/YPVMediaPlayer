@@ -7,6 +7,8 @@
 
 -----
 
+*NOTICE: A New version (Beta 2.1) was built, this Version uses LibVLC Instead of Media3/ExoPlayer. It has better performance but struggles with Arabic SSA/ASS Translations.*
+
 ## ✨ Features (Beta 1.1)
 
   * **Modern and Simple Compose UI:** Built entirely with a declarative UI and Material Design 3.

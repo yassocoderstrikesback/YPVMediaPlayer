@@ -3,7 +3,7 @@
 
 # 🎬 YPV (Yasso Video Player)
 
-**YPV** is a minimalist, high-performance Android media player built with **Jetpack Compose** and **Media3 (ExoPlayer)**. Designed with **FOSS** (Free and Open Source Software) principles at its core, YPV aims to provide a clean, ad-free, and privacy-focused alternative for video playback on Android.
+**YPV** is a high-performance Android media player built with **Jetpack Compose** and **Media3**. Designed with **FOSS** (Free and Open Source Software) principles at its core, YPV aims to provide a clean, ad-free, and privacy-focused alternative for video playback on Android.
 
 -----
 
